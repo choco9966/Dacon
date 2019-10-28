@@ -4,6 +4,10 @@
 
 팀명 : TEAM-EDA
 
+결과 : 
+
+![](https://github.com/choco9966/Dacon/blob/master/Credit%20Card%20Transaction%20Data%20Visualization/image/result.PNG?raw=true)
+
 폴더 구조
 
 ```

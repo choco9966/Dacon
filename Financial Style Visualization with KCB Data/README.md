@@ -4,6 +4,10 @@
 
 팀명 : TEAM-EDA(김현우, 최승훈)
 
+결과 : 
+
+![](https://github.com/choco9966/Dacon/blob/master/Financial%20Style%20Visualization%20with%20KCB%20Data/image/result.PNG?raw=true)
+
 폴더 구조
 
 ```
