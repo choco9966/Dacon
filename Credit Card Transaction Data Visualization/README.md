@@ -11,7 +11,7 @@
 ├── code
 │   │   └── No. 01 군집분석을 통한 인사이트 추출.ipynb
 ├── output
-|   │   └── No. 01 군집분석을 통한 인사이트 추출.html
+|   │   └── Link : https://dacon.io/index.php?mid=code1&category=122725&document_srl=122757
 └── Experience
 ```
 
