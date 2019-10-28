@@ -4,7 +4,7 @@
 
 결과 
 
-
+![](https://github.com/choco9966/Dacon/blob/master/Real%20House%20Price%20Prediction/image/image-20191028122710488.png?raw=true)
 
 ### 폴더 구조
 
