@@ -26,4 +26,6 @@
 - seaborn 0.9.0
 - numpy 1.16.4
 - plotly 4.1.1
+- eli5 0.10.1
+- shap 0.31.0
 
