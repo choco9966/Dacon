@@ -12,13 +12,12 @@
 .
 ├── code
 │   ├── EDA
-│   │   └── 1. Data Exploratory Analysis.ipynb
+│   │   └── 
 │   ├── PREPROCESSING
-│   │   └── public_juso_crawling.zip 
-│   │   └── 2. Preprocessing.ipynb
+│   │   └── public_juso_crawling.zip
 │   ├── FEATURES
-│   │   └── 3. External Features.ipynb
-│   │   └── 3. Features.ipynb
+│   │   └── 3. Subway, School features.ipynb
+│   │   └── 3. Gonggong data features.ipynb
 │   ├── MODEL
 |   │   └── 4. Modeling_Lightgbm_Quantile.ipynb
 |   │   └── 4. Modeling_Lightgbm_Regression_Last_validation.ipynb
@@ -61,3 +60,4 @@
 - 부산과 서울을 구분해서 모델을 돌림. 
 - LightGBM (Quantile - 5fold, Regression - 5fold, Regression - hold out) 
 - XGBoost (Regression - 3fold, Regression - 5fold,  Regression - 5fold with oversampling)
+
