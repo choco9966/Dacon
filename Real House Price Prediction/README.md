@@ -11,8 +11,6 @@
 ```
 .
 ├── code
-│   ├── EDA
-│   │   └── 
 │   ├── PREPROCESSING
 │   │   └── public_juso_crawling.zip
 │   ├── FEATURES
