@@ -5,5 +5,5 @@
 - Financial Style Visualization with KCB Data - Top 30
 - Energy Bigdata Utilization - Top 100
 - Prediction Jeju Bus Passengers at Time off work - 3rd 
-- Prediction of Rainfall(공공데이터 활용 수력 강우예측 AI 경진대회) - 5th 
+- Prediction of Nowcast(공공데이터 활용 수력 강우예측 AI 경진대회) - 5th 
 - 랜드마크 분류 AI 경진대회 - 2nd 
